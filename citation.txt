@@ -1,0 +1,9 @@
+@inproceedings{REPO317,
+    author = "Agarwal, Rishabh and Schuurmans, Dale and Norouzi, Mohammad",
+    booktitle = "Proceedings of the 37th International Conference on Machine Learning",
+    pages = "104--114",
+    series = "Proceedings of Machine Learning Research",
+    title = "{An Optimistic Perspective on Offline Reinforcement Learning}",
+    volume = "119",
+    year = "2020"
+}
